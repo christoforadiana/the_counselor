@@ -6,13 +6,13 @@ class PodcastProvider with ChangeNotifier {
       id: "dp11",
       podcastName: "Rain",
       creatorName: "Name Dummy",
-      imagePodcast: AssetImage("assets/images/rain.png"),
+      imagePodcast: AssetImage("assets/images/raining.png"),
     ),
     Podcast(
       id: "dp12",
       podcastName: "Flower",
       creatorName: "Name Dummy",
-      imagePodcast: AssetImage("assets/images/flower.png"),
+      imagePodcast: AssetImage("assets/images/flowers.png"),
     ),
     Podcast(
       id: "dp13",
@@ -27,31 +27,31 @@ class PodcastProvider with ChangeNotifier {
       id: "dp21",
       podcastName: "Imagining The World",
       creatorName: "William Spears",
-      imagePodcast: AssetImage("assets/images/imagining_the_world.png"),
+      imagePodcast: AssetImage("assets/images/world.png"),
     ),
     Podcast(
       id: "dp22",
       podcastName: "Kacamatamu",
       creatorName: "Surya Cahya",
-      imagePodcast: AssetImage("assets/images/kacamatamu.png"),
+      imagePodcast: AssetImage("assets/images/glasses.png"),
     ),
     Podcast(
       id: "dp23",
       podcastName: "Ibukota",
       creatorName: "Chicory",
-      imagePodcast: AssetImage("assets/images/ibukota.png"),
+      imagePodcast: AssetImage("assets/images/capital.png"),
     ),
     Podcast(
       id: "dp24",
       podcastName: "Sendiri, bukan Menyendiri",
       creatorName: "Tere Liye",
-      imagePodcast: AssetImage("assets/images/sendiri.png"),
+      imagePodcast: AssetImage("assets/images/alone.png"),
     ),
     Podcast(
       id: "dp25",
       podcastName: "Senja",
       creatorName: "Bintang Pratama",
-      imagePodcast: AssetImage("assets/images/senja_menenja.png"),
+      imagePodcast: AssetImage("assets/images/sunset_vibes.png"),
     ),
   ];
 

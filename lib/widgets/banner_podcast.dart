@@ -13,7 +13,7 @@ class BannerPodcast extends StatelessWidget {
           borderRadius: BorderRadius.circular(10),
           image: DecorationImage(
             image: AssetImage(
-              "assets/images/people_with_plane.png",
+              "assets/images/people.png",
             ),
             fit: BoxFit.cover,
           ),
@@ -46,7 +46,7 @@ class BannerPodcast extends StatelessWidget {
                     width: 4,
                   ),
                   Text(
-                    "Survive Quarter Life Crisis with Kak Dimas",
+                    "Survive Quarter Life Crisis",
                     style: whiteTextFont.copyWith(
                       fontSize: 14,
                       fontWeight: FontWeight.w400,

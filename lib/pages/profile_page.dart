@@ -25,7 +25,7 @@ class ProfilePage extends StatelessWidget {
                         height: 80,
                         width: 80,
                         child: Image.asset(
-                          "assets/images/user_pic.png",
+                          "assets/images/user.png",
                           fit: BoxFit.cover,
                         ),
                       ),

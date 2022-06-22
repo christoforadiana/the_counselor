@@ -4,7 +4,7 @@ class MeditationProvider with ChangeNotifier {
   List<Meditation> _medItems = [
     Meditation(
       id: "m1",
-      assetImage: AssetImage("assets/images/m1.png"),
+      assetImage: AssetImage("assets/images/meditation1.png"),
       title: "Lawan Stress",
       session: "2 Sesi",
       color: Color(0xFFFF5934),
@@ -16,7 +16,7 @@ class MeditationProvider with ChangeNotifier {
     ),
     Meditation(
       id: "m2",
-      assetImage: AssetImage("assets/images/m2.png"),
+      assetImage: AssetImage("assets/images/meditation2.png"),
       title: "Mengisi Kesepian",
       session: "2 Sesi",
       color: Color(0xFF3464FF),
@@ -28,7 +28,7 @@ class MeditationProvider with ChangeNotifier {
     ),
     Meditation(
       id: "m3",
-      assetImage: AssetImage("assets/images/m3.png"),
+      assetImage: AssetImage("assets/images/meditation3.png"),
       title: "Mengatasi Kecemasan",
       session: "2 Sesi",
       color: Color(0xFF219653),
@@ -40,7 +40,7 @@ class MeditationProvider with ChangeNotifier {
     ),
     Meditation(
       id: "m4",
-      assetImage: AssetImage("assets/images/m4.png"),
+      assetImage: AssetImage("assets/images/meditation4.png"),
       title: "Menghadapi Burnout",
       session: "2 Sesi",
       color: Color(0xFFA243C6),

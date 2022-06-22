@@ -4,19 +4,19 @@ class PsikologProvider with ChangeNotifier {
   List<Psikolog> _psiItems = [
     Psikolog(
       id: "p1",
-      name: "Harps Joseph",
+      name: "Joseph Woods",
       experienceDesc:
           "Quarter Life Crisis, Kecemasan, Overthinking, Kecanduan, Pikiran Obsesif",
       experienceYear: 3,
-      assetImage: AssetImage("assets/images/harps_joseph.png"),
+      assetImage: AssetImage("assets/images/joseph.png"),
     ),
     Psikolog(
       id: "p2",
-      name: "Jackson Handerson",
+      name: "Edward Stone",
       experienceDesc:
           "Stress pekerjaan, Kecemasan, Pikiran Obsesif, Gangguan Mood, Kecanduan",
       experienceYear: 3,
-      assetImage: AssetImage("assets/images/jackson.png"),
+      assetImage: AssetImage("assets/images/edward.png"),
     ),
   ];
 

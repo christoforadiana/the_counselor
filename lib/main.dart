@@ -43,7 +43,6 @@ class MyApp extends StatelessWidget {
           FormKonselingPage.routeName: (ctx) => FormKonselingPage(),
           TransactionPage.routeName: (ctx) => TransactionPage(),
           SuccessTransactionPage.routeName: (ctx) => SuccessTransactionPage(),
-          MoodTrackerPage.routeName: (ctx) => MoodTrackerPage(),
         },
       ),
     );

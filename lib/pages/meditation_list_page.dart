@@ -108,7 +108,7 @@ class MeditationListPage extends StatelessWidget {
                     "bd1",
                     "Mengisi Kesepian",
                     "1 Sesi",
-                    AssetImage("assets/images/m2.png"),
+                    AssetImage("assets/images/meditation2.png"),
                     () {},
                   ),
                 ),

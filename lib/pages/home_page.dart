@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage> {
                       width: 40,
                       decoration: BoxDecoration(shape: BoxShape.circle),
                       child: Image.asset(
-                        "assets/images/user_pic.png",
+                        "assets/images/user.png",
                         fit: BoxFit.cover,
                       ),
                     ),
@@ -95,7 +95,7 @@ class _HomePageState extends State<HomePage> {
                           ? "Selamat pagi,\nApa kabar? Mau ngapain hari ini?"
                           : (currentTime.isAfter(afternoonStartTime) &&
                                   currentTime.isBefore(afternoonEndTime))
-                              ? "Selamat siang,\nYuk semangat aktifitasnya!"
+                              ? "Selamat siang,\nYuk semangat jalanin aktivitasnya!"
                               : (currentTime.isAfter(eveningStartTime) &&
                                       currentTime.isBefore(eveningEndTime))
                                   ? "Selamat sore,\nBagaimana harimu?"

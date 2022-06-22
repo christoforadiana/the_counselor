@@ -108,8 +108,8 @@ class PsikologPage extends StatelessWidget {
                                   decoration: BoxDecoration(
                                     shape: BoxShape.circle,
                                     image: DecorationImage(
-                                      image: AssetImage(
-                                          "assets/images/user_pic.png"),
+                                      image:
+                                          AssetImage("assets/images/user.png"),
                                       fit: BoxFit.cover,
                                     ),
                                   ),

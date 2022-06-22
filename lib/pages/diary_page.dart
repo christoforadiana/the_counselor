@@ -27,7 +27,7 @@ class _DiaryPageState extends State<DiaryPage> {
                         height: 200,
                         width: double.infinity,
                         child: Image.asset(
-                          "assets/gif/diary_book.gif",
+                          "assets/gif/diary.gif",
                           fit: BoxFit.scaleDown,
                         ),
                       ),
@@ -84,8 +84,8 @@ class _DiaryPageState extends State<DiaryPage> {
                               ),
                             )
                           : Container(
-                            height: MediaQuery.of(context).size.height * 0.35,
-                            child: ListView.builder(
+                              height: MediaQuery.of(context).size.height * 0.35,
+                              child: ListView.builder(
                                 // shrinkWrap: true,
                                 scrollDirection: Axis.vertical,
                                 itemCount: diaryData.diary.length,
@@ -96,7 +96,7 @@ class _DiaryPageState extends State<DiaryPage> {
                                   diaryData.diary[index].dateTime,
                                 ),
                               ),
-                          ),
+                            ),
                       SizedBox(
                         height: 120,
                       ),

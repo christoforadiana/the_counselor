@@ -58,7 +58,7 @@ class PsikologCard extends StatelessWidget {
                 ),
               ),
               Text(
-                "Pengalaman menangani masalah:",
+                "Pengalaman: ",
                 style: blackTextFont.copyWith(
                   fontSize: 10,
                 ),

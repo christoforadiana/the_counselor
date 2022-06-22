@@ -26,4 +26,3 @@ part 'podcast_player.dart';
 part 'form_konseling_page.dart';
 part 'transaction_page.dart';
 part 'success_transaction_page.dart';
-part 'mood_tracker_page.dart';

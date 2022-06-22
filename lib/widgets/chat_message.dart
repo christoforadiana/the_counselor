@@ -1,6 +1,6 @@
 part of 'widgets.dart';
 
-const String _name = "Antonio";
+const String _name = "Noobs";
 
 class ChatMessage extends StatelessWidget {
   final String text;
