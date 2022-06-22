@@ -1,7 +1,7 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.example.flutter_mental_health_app"
-4    android:versionCode="1"
+4    android:versionCode="4"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
@@ -17,8 +17,8 @@
 13-->[androidx.core:core:1.8.0] C:\Users\Lenovo\.gradle\caches\transforms-3\d363e3b5616f580c766e3e2b3c05f27d\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 14        android:icon="@mipmap/ic_launcher"
 14-->D:\semester 6\pemrograman mobile lanjut\program\flutter_mental_health_app\android\app\src\main\AndroidManifest.xml:6:9-43
-15        android:label="flutter_mental_health_app" >
-15-->D:\semester 6\pemrograman mobile lanjut\program\flutter_mental_health_app\android\app\src\main\AndroidManifest.xml:4:9-50
+15        android:label="The Counselor" >
+15-->D:\semester 6\pemrograman mobile lanjut\program\flutter_mental_health_app\android\app\src\main\AndroidManifest.xml:4:9-38
 16        <activity
 16-->D:\semester 6\pemrograman mobile lanjut\program\flutter_mental_health_app\android\app\src\main\AndroidManifest.xml:7:9-27:20
 17            android:name="com.example.flutter_mental_health_app.MainActivity"

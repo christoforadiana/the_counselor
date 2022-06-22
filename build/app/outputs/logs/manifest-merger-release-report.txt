@@ -12,7 +12,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Le
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\Lenovo\.gradle\caches\transforms-3\d363e3b5616f580c766e3e2b3c05f27d\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from D:\semester 6\pemrograman mobile lanjut\program\flutter_mental_health_app\android\app\src\main\AndroidManifest.xml:4:9-50
+		ADDED from D:\semester 6\pemrograman mobile lanjut\program\flutter_mental_health_app\android\app\src\main\AndroidManifest.xml:4:9-38
 	android:icon
 		ADDED from D:\semester 6\pemrograman mobile lanjut\program\flutter_mental_health_app\android\app\src\main\AndroidManifest.xml:6:9-43
 	android:name
